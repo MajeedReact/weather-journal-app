@@ -1,7 +1,7 @@
 /* Global Variables */
 
 //Api key with imperial units
-const apiKey = '166c3342d85d211eea6ee5f63b6d0cff&units=imperial&zip=';
+const apiKey = '<YOUR_API_KEY>&units=imperial&zip=';
 
 //api url
 const apiUrl = 'http://api.openweathermap.org/data/2.5/weather?appid='
